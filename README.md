@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clownfish0
+- 👋 Hi, I’m @ClownfishE
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning zkevm
 - 💞️ I’m looking to collaborate on Discord
